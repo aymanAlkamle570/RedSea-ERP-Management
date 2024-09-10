@@ -5,6 +5,7 @@ namespace RedSea_ERP_Management
         public Form1()
         {
             InitializeComponent();
+            x
         }
     }
 }
